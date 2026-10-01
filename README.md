@@ -1,8 +1,6 @@
 # BookBot
 
-BookBot is a Python-based command-line tool that analyzes text files (such as classic books from Project Gutenberg) and generates statistical reports, including total word counts and character frequency analysis.
-
-This project was built as part of the backend development curriculum on [Boot.dev](https://www.boot.dev).
+BookBot is a Python-based command-line tool designed to analyze text files and documents. It generates statistical reports including total word count and detailed character frequency analysis, sorted from most frequent to least frequent.
 
 ---
 
@@ -118,7 +116,6 @@ z: 235
 
 ---
 
-## Acknowledgments
+## Author
 
-- Guided project by [Boot.dev](https://www.boot.dev).
-- Public domain texts provided by [Project Gutenberg](https://www.gutenberg.org/).
+- **Rishabh** - [@rishabharaj](https://github.com/rishabharaj)
